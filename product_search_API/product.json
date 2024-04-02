@@ -1,0 +1,257 @@
+[
+  {
+    "name": "Laptop",
+    "price": 999.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Smartphone",
+    "price": 699.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Headphones",
+    "price": 99.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "T-shirt",
+    "price": 19.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Jeans",
+    "price": 39.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Running Shoes",
+    "price": 79.99,
+    "category": "Footwear"
+  },
+  {
+    "name": "TV",
+    "price": 799.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Tablet",
+    "price": 299.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Gaming Console",
+    "price": 499.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Dress Shirt",
+    "price": 49.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Dress",
+    "price": 89.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Sneakers",
+    "price": 59.99,
+    "category": "Footwear"
+  },
+  {
+    "name": "Desktop Computer",
+    "price": 1499.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "E-reader",
+    "price": 129.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "price": 49.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Polo Shirt",
+    "price": 29.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Skirt",
+    "price": 39.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Sandals",
+    "price": 39.99,
+    "category": "Footwear"
+  },
+  {
+    "name": "Digital Camera",
+    "price": 399.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "price": 129.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Printer",
+    "price": 149.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Hoodie",
+    "price": 49.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Pants",
+    "price": 34.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Boots",
+    "price": 99.99,
+    "category": "Footwear"
+  },
+  {
+    "name": "External Hard Drive",
+    "price": 79.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Fitness Tracker",
+    "price": 79.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Smart Watch",
+    "price": 199.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Blouse",
+    "price": 29.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Shorts",
+    "price": 24.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "High Heels",
+    "price": 69.99,
+    "category": "Footwear"
+  },
+  {
+    "name": "Router",
+    "price": 79.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Keyboard",
+    "price": 49.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Jacket",
+    "price": 79.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Swimwear",
+    "price": 39.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Flip Flops",
+    "price": 14.99,
+    "category": "Footwear"
+  },
+  {
+    "name": "Wireless Charger",
+    "price": 29.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Smart Speaker",
+    "price": 149.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Graphic T-shirt",
+    "price": 24.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Coat",
+    "price": 99.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Slippers",
+    "price": 19.99,
+    "category": "Footwear"
+  },
+  {
+    "name": "USB Flash Drive",
+    "price": 9.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Smart Thermostat",
+    "price": 129.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Security Camera",
+    "price": 99.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Sunhat",
+    "price": 19.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Scarf",
+    "price": 14.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Winter Boots",
+    "price": 89.99,
+    "category": "Footwear"
+  },
+  {
+    "name": "Portable Power Bank",
+    "price": 39.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Smart Doorbell",
+    "price": 199.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Sleepwear",
+    "price": 29.99,
+    "category": "Clothing"
+  },
+  {
+    "name": "Belt",
+    "price": 19.99,
+    "category": "Clothing"
+  }
+]
