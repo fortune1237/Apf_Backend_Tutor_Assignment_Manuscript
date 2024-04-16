@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "file-management-api"
+version = "0.1.0"
+description = "This is a file management API"
+authors = ["Fortune"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.110.0"
+uvicorn = "^0.29.0"
+pydantic = {extras = ["email"], version = "^2.6.4"}
+pytest = "^8.1.1"
+requests = "^2.31.0"
+httpx = "^0.27.0"
+python-multipart = "^0.0.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+filterwarnings = [
+  "ignore: The 'app' shortcut is now deprecated.:DeprecationWarning"
+  ]
